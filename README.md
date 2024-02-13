@@ -12,12 +12,10 @@ go build .
 ```
 
 ## Using The CLI
-    ```bash  
+```bash
 ./cli config -h
-``` provides the following documentation for using this CLI 
-
-
-
+```
+Provides the following documentation for using this CLI
 ```bash
 Available Commands:
   add         The 'add' subcommand will add a passed in key value pair to the application configuration file.
