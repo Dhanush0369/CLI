@@ -3,7 +3,8 @@
 
 _This is a CLI App Name is a command-line application built with Go, utilizing the [Cobra](https://github.com/spf13/cobra) and [Viper](https://github.com/spf13/viper) libraries for efficient command-line handling and configuration managementr._
 
-##Build
+## Build
+
 ```bash
 cd CLI
 
