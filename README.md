@@ -47,7 +47,9 @@ Delete a Key value from the configuration file
 Replace "key" and "value" with your actual key value.
 
 ## Example
-<p align="center"> <img src="./screenshots/Cli_config.png"/>Documentation</p>
+<h3 align="center">Documentation</h3>
+<p align="center"> <img src="./screenshots/Cli_config.png"/></p>
 <br/>
+<h3 align="center">Example Of CRUD Commands</h3>
 <p align="center"> <img src="./screenshots/CRUD_commands.png"/></p>
-Example Of CRUD Commands
+
