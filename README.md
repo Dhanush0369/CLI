@@ -45,4 +45,8 @@ Delete a Key value from the configuration file
 ```
 
 Replace "key" and "value" with your actual key value.
-##Examples, The CRUD!
+
+## Example
+<p align="center"> <img src="./screenshots/Cli_config.png"/>Documentation</p>
+<br/>
+<p align="center"> <img src="./screenshots/CRUD_commands.png"/>Example Of CRUD commands</p>
