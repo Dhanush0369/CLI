@@ -49,4 +49,5 @@ Replace "key" and "value" with your actual key value.
 ## Example
 <p align="center"> <img src="./screenshots/Cli_config.png"/>Documentation</p>
 <br/>
-<p align="center"> <img src="./screenshots/CRUD_commands.png"/>Example Of CRUD commands</p>
+<p align="center"> <img src="./screenshots/CRUD_commands.png"/></p>
+Example Of CRUD Commands
